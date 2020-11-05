@@ -1,0 +1,46 @@
+body{
+    background-color: lightpink;
+}
+.container h1
+{
+    font-family: 'Special Elite', cursive;
+    background-color: white;
+    color:black;
+}
+.container img
+{
+    height: 100px;
+    width:100px;
+}
+#camera, #snapshot_img
+{ 
+    height:350px;
+    width:400px;
+    border: 2px  deeppink dashed;
+    
+}
+.div_ans {
+    
+   
+    margin-bottom:40px;
+}
+#bulb
+{    
+    width: 100px;
+}
+
+.div_ans h2 {
+    
+    background: white;
+    box-shadow:15px  15px 18px rgb(248, 197, 103) ;
+    padding: 10px;
+    border-radius:30px;
+    border:2px solid black;
+}
+.footer label
+{
+    font-family: 'Special Elite', cursive;
+    font-size: 20px;
+    text-shadow: 10px 10px 15px rgb(0, 0, 0);
+    text-align: center;
+}
